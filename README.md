@@ -1,6 +1,10 @@
 # Sovereign Decree, Culpable Man: A Defense of Biblical Compatibilism
 ## Keywords: Compatibilism, Sovereignty, Human Responsibility, Divine Decree, Free Will, Bondage of the Will, Providence, Theodicy, Problem of Evil, Predestination, Election, Calvinism, Reformed Theology, Dual Agency, Ordained Means, Sovereignty of God, Moral Inability, Libertarian Free Will, Fatalism, Author of Sin, Preceptive Will, Decretive Will, Federal Headship, Original Sin, Effectual Calling, Monergism, Synergism.
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
 ## Contents
 - [Introduction: The Stakes of a Non-Negotiable Doctrine](#introduction-the-stakes-of-a-non-negotiable-doctrine)
 - [1. Clearing the Ground: What Compatibilism Is and Is Not](#1-clearing-the-ground-what-compatibilism-is-and-is-not)
@@ -1062,3 +1066,20 @@ The objection proves too much: by this logic, we shouldn't eat (God has decreed 
 | **Pastoral Application & Comfort** | Job 42; Ps. 139:16; 2 Cor. 12:9; Rom. 8:28-29; Phil. 1:6; Col. 2:15 |
 | **God's Immutability & Anthropomorphic Language** | Num. 23:19; Ex. 32:14; Jonah 3:10 |
 | **Universal Gospel Offer** | John 3:16; Rev. 22:17; Mark 1:15; Acts 17:30; 2 Pet. 3:9; 1 Tim. 2:4 |
+
+---
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+---
+
+© 2025 VeritasVox | Licensed under CC BY 4.0
